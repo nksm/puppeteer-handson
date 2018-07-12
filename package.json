@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-handson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/puppeteer": "^1.5.0",
+    "puppeteer": "^1.5.0",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}
