@@ -4,6 +4,6 @@
 # install dependencies
 $ npm install # Or yarn install
 
-# serve with hot reload at localhost:3000
+# start action
 $ npm start
 ```
